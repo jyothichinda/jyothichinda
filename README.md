@@ -10,9 +10,7 @@ Databases: MongoDB, PostgreSQL
 
 Version Control: Git, GitHub, GitLab
 
-DevOps: Docker, Jenkins, CI/CD pipelines
-
-Testing: Jest, Mocha, Chai, Cypress
+DevOps: Docker, CI/CD pipelines
 
 Other: Webpack, REST APIs, GraphQL, Microservices, TDD, Server-Side Rendering (SSR)
 
